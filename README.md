@@ -1,8 +1,6 @@
 # Coke-Tin-Modelling
-```
-Developed By: G Venkata Pavan Kumar
+Developed By: G Venkata Pavan Kumar</br>
 Reg. No: 212221240013
-```
 ### Procedure:
 Step1: Create a cylinder using polyshapes.</br>
 Step2: Extrude the cylinder till getting a proper shape of a can.</br>

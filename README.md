@@ -17,6 +17,5 @@ Step10: Repeat the samething with scale tool in the bottom the can.</br>
 
 ### Output:
 <img width="704" alt="tin" src="https://user-images.githubusercontent.com/94827772/207769022-3d098a05-9a2f-4c8a-895d-2eefef454b50.png">
-
 ### Result:
 Therefore a coke tin is successfully created using maya.
